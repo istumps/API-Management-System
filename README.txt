@@ -1,4 +1,3 @@
-Group members: Isaac Stumps
 GETTING STARTED
 
 Prerequisites:
